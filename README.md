@@ -1,4 +1,4 @@
-### Hi there 👋
+### 📕 深度学习 ChatGPT：从零开始学习的过程及资源分享！
 
 <!--
 **chatbb/chatbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
