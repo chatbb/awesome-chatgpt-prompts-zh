@@ -6,9 +6,8 @@
 
 - [ChatGPT 是什么](#ChatGPT-是什么)
 - [为什么要学习 ChatGPT](#为什么要学习-ChatGPT)
-- [如何学习 ChatGPT](#如何学习-ChatGPT)
-- [快速上手 ChatGPT](#快速上手-ChatGPT)
-- [参考资料](#参考资料)
+- [如何为ChatGPT提供高效的提示](#如何为ChatGPT提供高效的提示)
+- [提示的注意事项](#提示的注意事项)
 
 ## ChatGPT 是什么
 
@@ -26,29 +25,15 @@ ChatGPT 可以通过对大量数据进行训练，生成高质量的自然语言
 
 因此，学习 ChatGPT 对于从事自然语言处理、人工智能等相关领域的技术人员，尤其是对话系统开发人员，具有很高的实用价值。
 
-## 如何学习 ChatGPT
+## 如何为ChatGPT提供高效的提示
 
-本仓库提供了一些学习 ChatGPT 的资源，以下是推荐的学习路径:
+准确明确的话题：提供具体明确的话题，使得机器人可以更快、更准确地识别和理解用户的需求。
+发散和高度的话题：提供多种可能性，可以激发机器人的想象力，并且让机器人有不同的选项可以回答，让信息更全面、更精准。
+简单明了的字词：要求文本提示的语句结构简单、明了且容易理解，避免机器人出现混淆的情况，让机器人能更轻松地理解和回答用户的问题。
 
-1. 学习自然语言处理技术基础知识，了解 Transformer 结构和预训练模型的原理和应用场景；
-2. 学习 Python 编程和 Pytorch 框架，了解如何实现自然语言处理任务；
-3. 学习 ChatGPT 的具体使用，包括 ChatGPT 的模型结构、训练步骤、优化方法等；
-4. 实践 ChatGPT，完成一些已有的自然语言生成任务，加深对 ChatGPT 的理解。
+## 提示的注意事项：
 
-## 快速上手 ChatGPT
+不要抄袭：为了保护原创性，文本提示中不要出现抄袭或类似的内容，同时避免使用转载的素材，保证Prompt的发散性和原创性。
+注意语言风格：不同的语言风格的阐述方式可能是不同的，比如中文和英文的文体方式就有所不同。应该在确定问题提示之前，考虑使用的语言和语言的特点，以避免误解和翻译错误等问题。
+避免城市迷失：问题提示也不应该过于复杂或过于抽象，比如过于拗口的文学词汇，过于深奥的具体内容等，往往会使得机器人难以理解用户的意思，更不可能做出准确的回答。
 
-为了更快地上手 ChatGPT，我们提供了一个 ChatGPT 的代码示例，以及该示例所需的数据集和预训练模型，以下是上手 ChatGPT 的简单步骤：
-
-1. 安装 Python 环境和 PyTorch 库；
-2. 获取 ChatGPT 代码示例；
-3. 下载 ChatGPT 所需的数据集和预训练模型；
-4. 在本地环境中运行 ChatGPT 代码示例，修改参数和配置文件，实现自己的自然语言生成任务。
-
-更详细的上手步骤可以参考 [ChatGPT 示例](./chatgpt_example/README.md)。
-
-## 参考资料
-
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
-- [GPT-2][https://openai.com/blog/better-language-models/]
-- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
