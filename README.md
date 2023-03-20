@@ -29,7 +29,7 @@ ChatGPT 是一个基于 GPT 技术的智能聊天机器人，它可以进行语�
 
 ## 示例列表
 
-- [写当前README.md文件](写当前README.md文件)
+- [写当前README.md文件](#写当前README.md文件)
 
 ### 写当前README.md文件
 我想与朋友和同事分享示例，以便他们可以更好地使用 ChatGPT 作为生产力工具。我将在 github 上保存示例。编写介绍此想法的 README.md 文件.
