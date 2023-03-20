@@ -1,6 +1,6 @@
 # 📕 ChatGPT 示例
 
-💬 这个仓库包含了一些 ChatGPT 的示例，旨在帮助你更好地使用 ChatGPT 作为生产力工具。
+💬 这个仓库包含了一些 ChatGPT 的示例(prompts)，旨在帮助你更好地使用 ChatGPT 作为生产力工具。
 
 ## 内容列表
 
@@ -25,8 +25,7 @@ ChatGPT 是一个基于 GPT 技术的智能聊天机器人，它可以进行语�
 
 ## 联系我们
 
-如果你有任何问题或者建议，欢迎通过邮件联系我们。
-Email: contact@chatgpt.com.
+如果你有任何问题或者建议，欢迎通过邮件联系我们。 Email: chatbb@proton.me
 
 ## 示例列表
 
