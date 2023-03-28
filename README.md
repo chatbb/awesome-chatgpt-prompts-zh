@@ -17,6 +17,7 @@ ChatGPT 是一个基于 GPT 技术的智能聊天机器人，它可以进行语�
 
 这个仓库中包含了多个示例，这些示例除了官方网站体验外，还可通过扫描下面二维码进行免费体验。
 ![免费体验地址](./images/free.png)
+![备份地址](https://yh-media-output.oss-cn-hangzhou.aliyuncs.com/free.png)
 
 ## 如何贡献
 
